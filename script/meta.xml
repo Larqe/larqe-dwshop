@@ -1,0 +1,25 @@
+<meta>
+    <script src="larqe.lua" type="client" cache="false" />
+    <script src="events.lua" type="server" cache="false" />
+    
+    <file src="img/kapat.png" />
+    <file src="img/agirzirh.png" />
+    <file src="img/hafifzirh.png" />
+    <file src="img/saglikcantasi.png" />
+    <file src="img/sargibezi.png" />
+    <file src="img/dw.png" />
+    <file src="img/knife.png" />
+    <file src="img/maymuncuk.png" />
+    <file src="img/bat.png" />
+    <file src="img/maske.png" />
+    <file src="img/krp.png" />
+    
+    <file src="img/eldiven.png" />
+    <file src="img/ast.png" />
+    <file src="img/li.png" />
+    <file src="img/sss.png" />
+    
+    <file src="img/RobotoB.ttf" />
+    <oop>true</oop>
+    <min_mta_version server="1.5.6-9.18728" client="1.5.6-9.18728"></min_mta_version>
+</meta>
